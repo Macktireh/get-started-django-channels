@@ -1,1 +1,1 @@
-# Learn started-django-channels
+# Django Channels
