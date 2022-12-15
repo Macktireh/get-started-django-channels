@@ -1,1 +1,1 @@
-# Django Channels
+# Django - Channels - Redis
